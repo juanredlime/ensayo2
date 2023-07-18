@@ -6,7 +6,7 @@ $outputFolder = Join-Path $buildFolder "outputs"
 $webMvcFolder = Join-Path $slnFolder "src/cursoazuredevops.Web.Mvc"
 
 ## CLEAR ######################################################################
-##comentario juan villada
+##comentario juan villada soy el mejor d elos mejores ok ok
 
 Remove-Item $outputFolder -Force -Recurse -ErrorAction Ignore
 New-Item -Path $outputFolder -ItemType Directory
